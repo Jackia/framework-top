@@ -1,0 +1,10 @@
+去掉无用的依赖：
+org.springframework.aop,org.springframework.aop.framework,org.spri
+ ngframework.aop.framework.autoproxy,org.springframework.aop.support,o
+ rg.springframework.aop.support.annotation,org.springframework.beans,o
+ rg.springframework.beans.factory,org.springframework.beans.factory.co
+ nfig,org.springframework.beans.factory.parsing,org.springframework.be
+ ans.factory.support,org.springframework.beans.factory.xml,org.springf
+ ramework.context,org.springframework.jdbc.support.lob,org.springframe
+ work.jdbc.support.nativejdbc,org.springframework.util,org.springframe
+ work.web.servlet,org.w3c.dom,org.xml.sax,org.xml.sax.helpers
